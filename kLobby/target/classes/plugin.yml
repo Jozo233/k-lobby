@@ -1,0 +1,11 @@
+name: Me.klobby
+version: 1.0-SNAPSHOT
+main: me.klobby.me.klobby.Me.Main
+api-version: 1.16
+authors: [ Jozo_85 ]
+description: K Lobby
+website: kaktusekplay.tk
+commands:
+  clear:
+    description: clear
+    usage: /<command>
